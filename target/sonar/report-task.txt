@@ -1,0 +1,6 @@
+projectKey=com.jdevs:studentapp
+serverUrl=http://35.228.214.90:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://35.228.214.90:9000/dashboard/index/com.jdevs:studentapp
+ceTaskId=AW9DTq44C0LveTW2561F
+ceTaskUrl=http://35.228.214.90:9000/api/ce/task?id=AW9DTq44C0LveTW2561F
